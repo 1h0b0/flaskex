@@ -1,0 +1,23 @@
+locale_gen_list:
+  - ru_RU.UTF-8
+  - en_US.UTF-8
+
+locales_default: en_US.UTF-8
+
+add_root_username_list:
+  - one
+
+#mkpasswd --method=md5crypt
+add_root_userpass: acelee8Ierae
+add_root_userpass_hash: $1$ni5KJCwm$Rr0F2ZpKmWxp/9MMkYhIr0
+
+install_software_list:
+  - mc
+  - htop
+  - net-tools
+  - vim
+  - screen
+  - python
+  - python-pip
+  - git
+
